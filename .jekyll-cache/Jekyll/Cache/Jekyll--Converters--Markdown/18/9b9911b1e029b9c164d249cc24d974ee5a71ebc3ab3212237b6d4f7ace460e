@@ -1,56 +1,4 @@
-<!doctype html>
-<html lang="en">
-
-  <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <title>
-    
-      About &middot; Mark Yen
-    
-  </title>
-
-  <link rel="stylesheet" href="/styles.css">
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/apple-touch-icon-precomposed.png">
-  <link rel="shortcut icon" href="/assets/favicon.ico">
-  <link rel="alternate" type="application/atom+xml" title="Mark Yen" href="/atom.xml">
-
-  <!-- Begin Jekyll SEO tag v2.6.1 -->
-<meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="About" />
-<meta name="author" content="Mark Otto" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="http://localhost:4000/about/" />
-<meta property="og:url" content="http://localhost:4000/about/" />
-<meta property="og:site_name" content="Mark Yen" />
-<script type="application/ld+json">
-{"headline":"About","author":{"@type":"Person","name":"Mark Otto"},"url":"http://localhost:4000/about/","name":"Mark Yen","@type":"WebSite","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-</head>
-
-
-  <body>
-
-    <div class="container content">
-      <div class="nav-bar"><nav>
-  <a href="/">Home</a>
-  <a href="/about">About</a>
-  <a href="/posts">Posts</a>
-  <!-- <a href="/projects">Projects</a> -->
-</nav></div>
-      <header class="masthead">
-        <h3 class="masthead-title">
-          <a href="/" title="Home">Mark Yen</a><br/>
-          <small>Software Engineer, Former Finance Professional and Bureacrat</small>
-        </h3>
-      </header>
-
-      <main>
-        <article class="page">
-  <h1 class="page-title">About</h1>
-  <h2 id="my-name-is-mark-yen">My name is Mark Yen.</h2>
+I"³<h2 id="my-name-is-mark-yen">My name is Mark Yen.</h2>
 <p>This is my initial stab at starting my own website using GitHub IO and Jekyll. It is currently basic, but I hope to build upon it as I continue to learn about website design and software development.</p>
 
 <h2 id="background">Background.</h2>
@@ -69,8 +17,8 @@
 <p>Whatâ€™s your story? I would love to connect.</p>
 <section display="inline-block">
  <a href="https://www.linkedin.com/in/markcyen/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&amp;logo=linkedin&amp;logoColor=white" height="25" /></a>
- <a href="mailto:markcyen@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&amp;logo=gmail&amp;logoColor=white" height="31.5" /></a>
- <a href="https://github.com/markcyen"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&amp;logo=github&amp;logoColor=white" height="28.7" /></a>
+ <a href="mailto:markcyen@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&amp;logo=gmail&amp;logoColor=white" height="32" /></a>
+ <a href="https://github.com/markcyen"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&amp;logo=github&amp;logoColor=white" height="30" /></a>
 </section>
 
 <!-- <p class="message">
@@ -97,18 +45,4 @@ Some fun facts about the setup of this project include:
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
 Thanks for reading! -->
-
-</article>
-
-      </main>
-
-      <footer class="footer">
-        <small>
-          &copy; <time datetime="2022-01-18T12:31:24-07:00">2022</time>. All rights reserved.
-        </small>
-      </footer>
-    </div>
-
-    
-  </body>
-</html>
+:ET

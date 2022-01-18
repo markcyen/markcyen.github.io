@@ -3,18 +3,25 @@ layout: default
 title: Home
 ---
 
-# About Me
+## About Me
 
-Hi there, I'm Mark, and I'm a software engineer. I love to learn and to connect with people.
+ Hi there 👋 , I'm Mark, and I'm a software engineer. I love to learn and to connect with people.
 
-# Projects I've worked on
+## Projects I've worked on
 - [Drink This](https://drink-this-frontend.herokuapp.com/)
 - [Pawty Trainer](https://pawty-trainer.github.io/pawty-trainer/#/)
 - [Mock Merchant Dashboard](https://marky-little-esty-shop.herokuapp.com/)
 
-# Blog
+## Blog
 - Currently under construction
 
+## Contact
+
+<section display="inline-block">
+ <a href="https://www.linkedin.com/in/markcyen/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="25" /></a>
+ <a href="mailto:markcyen@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" height="31.5" /></a>
+ <a href="https://github.com/markcyen"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" height="28.7" /></a>
+</section>
 
 <!-- <div class="posts">
   {% for post in paginator.posts %}
