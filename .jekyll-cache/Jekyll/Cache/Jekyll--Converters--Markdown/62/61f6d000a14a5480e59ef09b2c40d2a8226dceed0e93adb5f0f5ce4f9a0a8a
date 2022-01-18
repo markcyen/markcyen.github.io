@@ -1,0 +1,29 @@
+I"�<h1 id="about-me">About Me</h1>
+
+<p>Hi there, I’m Mark, and I’m a software engineer. I love to learn and to connect with people.</p>
+
+<h1 id="projects-ive-worked-on">Projects I’ve worked on</h1>
+<ul>
+  <li><a href="https://drink-this-frontend.herokuapp.com/">Drink This</a></li>
+  <li><a href="https://pawty-trainer.github.io/pawty-trainer/#/">Pawty Trainer</a></li>
+  <li><a href="https://marky-little-esty-shop.herokuapp.com/">Mock Merchant Dashboard</a></li>
+</ul>
+
+<h1 id="blog">Blog</h1>
+<ul>
+  <li>Currently under construction</li>
+</ul>
+
+<!-- <div class="posts">
+  
+</div>
+
+<div class="pagination">
+  
+    <span class="pagination-item older">Older</span>
+  
+  
+    <span class="pagination-item newer">Newer</span>
+  
+</div> -->
+:ET

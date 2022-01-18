@@ -9,6 +9,7 @@ Hi there, I'm Mark, and I'm a software engineer. I love to learn and to connect 
 
 # Projects I've worked on
 - [Drink This](https://drink-this-frontend.herokuapp.com/)
+- [Pawty Trainer](https://pawty-trainer.github.io/pawty-trainer/#/)
 - [Mock Merchant Dashboard](https://marky-little-esty-shop.herokuapp.com/)
 
 # Blog
